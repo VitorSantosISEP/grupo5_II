@@ -6,3 +6,9 @@ Também permite trabalharmos em diferentes versões do código (em grupo ou não
 
 Segurança - Ao utilizar um software desse tipo temos uma maior segunça com os nossos códigos, pois o próprio Controle de Versões tem estruturas internas focadas em gerar maior 
 segurança para que não percamos código, uma segurança em não termos um sobre escrita, por exemplo, entra commits.
+
+3 estados que um ficheiro/directório pode estar
+
+Untracked
+Staging 
+Modified
