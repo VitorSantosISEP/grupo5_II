@@ -3,3 +3,5 @@ O read me é um ficheiro onde pode ser indicado instruções de como utilizar ta
 Um merge é usado quando quer juntar uma branch que criou à sua master atualizando assim o seu master para que tenha as alterações do branch que você ou o seu colega criou. Existe o merge que junta a branch que criou ao seu master, o squash merge e o pull merge.
 
 O comando utilisado para ver os comandos adicionados que não estão staged é o "git status" onde permite ver os ficheiros staged, não staged e os untracked. 
+
+O comando "git log --follow meu_script.py" permite o utilizador abrir o ficheiro antes de ter feito mudanças em um certo commit no ficheiro "meu_script.py", permitindo a edição desse ficheiro em um espaço separado na versão mais antiga do ficheiro.
