@@ -1,1 +1,3 @@
 O read me é um ficheiro onde pode ser indicado instruções de como utilizar tal programa, passos a fazer ou seja informações que permitem o funcionamento do código.
+
+Um merge é usado quando quer juntar uma branch que criou à sua master atualizando assim o seu master para que tenha as alterações do branch que você ou o seu colega criou. Existe o merge que junta a branch que criou ao seu master, o squash merge e o pull merge. 
