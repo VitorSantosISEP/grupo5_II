@@ -1,0 +1,1 @@
+O read me é um ficheiro onde pode ser indicado instruções de como utilizar tal programa, passos a fazer ou seja informações que permitem o funcionamento do código.
